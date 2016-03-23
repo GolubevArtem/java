@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Lib</title>
+<title>Insert title here</title>
 </head>
 <body>
 
@@ -13,7 +13,7 @@
  		<input type="hidden" name="command" value="login" /> 
 	
  		Login:<br />
-		<input type="text" name="Login" value="" /> <br /> 
+		<input type="text" name="login" value="" /> <br /> 
 		Password:<br />
 		<input type="password" name="password" value="" /><br /> 
 		<input type="submit" value="Login" />
